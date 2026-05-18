@@ -2,7 +2,7 @@ modus-workspace-nav
 
 Part of Modus — a custom DE I'm building from scratch for laptops, focused on energy efficiency and rethinking whether every UI convention we've inherited actually makes sense.
 
-A cross-shaped workspace layout for Hyprland. Navigate in 4 directions, it takes 1-2 swipes from anywhere.
+Modus-workspace-nav is a cross-shaped workspace layout for Hyprland. Navigate in 4 directions, it takes 1-2 swipes from anywhere.
 
 The idea:
 Most workspace setups are a straight line. You scroll left and right through them and the further you go, the more swipes it takes and the more confused I get.
