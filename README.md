@@ -37,7 +37,7 @@ When you swipe on the trackpad, the workspace swap triggers after the swipe comp
 
 Requirements:
 - Hyprland
-- An open mind
+- Python
 
 Disclaimer: Someone else may have come up with this idea before me — I don't claim to be first, but I can say I arrived at it on my own.
 ```
