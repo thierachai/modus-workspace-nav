@@ -1,3 +1,5 @@
+```
+
 1. Scripts
 Place both scripts in ~/.config/hypr/scripts/ and make them executable:
 chmod +x ~/.config/hypr/scripts/nav.sh
@@ -41,3 +43,5 @@ workspace = 6, monitor:eDP-1, default:true
 
 5. QML indicator (optional)
 See the file called "Workspace_indicator.qml", you can implement this however you like!
+
+```
